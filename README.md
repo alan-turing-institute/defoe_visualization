@@ -1,11 +1,11 @@
 
 # "defoe_visualization" 
 
-This repository contains the notebooks to visulaise (and analyse further) the results of the queries  
+This repository contains the notebooks to visulaize (and analyse further) the results of the queries  
 
 ---
 
-## Visualisations
+## Visualizations
 
 ### Stranger Danger
 * [Stranger Danger Notebook](Stranger_Danger/Stranger_Danger.ipynb)
