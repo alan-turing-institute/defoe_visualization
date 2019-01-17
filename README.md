@@ -1,6 +1,21 @@
-This reposistory aims to collect all the notebooks for visualizing the results of different queries. 
 
-We have created so far two notebooks:
+# "defoe_visualization" - visualizations (notebooks) of the results of queries agains books and newspapers data
 
-	* Stranger_Danger
-	* Diseases
+This repository contains the notebooks to visulaise (and analyse further) the results of the queries  
+
+---
+
+## Visualisations
+
+### Stranger Danger
+* [Stranger Danger Notebook](Stranger_Danger/Stranger_Danger.ipynb)
+* [Stranger Danger query results](Stranger_Danger/results/stranger_danger.yml)
+* [Normaliser query results](Stranger_Danger/results/Stranger_Danger.yml)
+
+
+### Diseases
+* [Stranger Danger Notebook](Diseases/Diseases_1.ipynb)
+* [Diseases query results](Diseases/results)
+
+
+
