@@ -1,5 +1,5 @@
 
-# "defoe_visualization" - visualizations (notebooks) of the results of queries agains books and newspapers data
+# "defoe_visualization" 
 
 This repository contains the notebooks to visulaise (and analyse further) the results of the queries  
 
