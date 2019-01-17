@@ -1,7 +1,7 @@
 
 # "defoe_visualization" 
 
-This repository contains notebooks to visulaize (and to do further analyses) the results of the queries  
+This repository contains notebooks to visulaize (and to do further analyses) the results of the queries.   
 
 ---
 
