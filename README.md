@@ -15,7 +15,7 @@ This repository contains notebooks to visulaize (and to do further analyses) the
 
 ### Diseases
 * [Diseases Notebook](Diseases/Diseases_1.ipynb)
-* [Diseases query results](Diseases/results)
+* [Diseases and normaliser queries results](Diseases/results)
 
 
 
