@@ -40,6 +40,11 @@ These notebooks examinatethe attitudes towards female emigration from Great Brit
     * [TDA N-grams](https://github.com/alan-turing-institute/defoe_visualization/blob/master/Female_Emigration/TDA/Visualization_Frequency_Taxonomy_Ngrams_TDA.ipynb)
   
 
+### Eruption of Krakatoa Volcano in 1883
+
+Krakatoa (Krakatau in Indonesian)  erupted over 26-27th August 1883 and was one of the most spectacular volcanic eruptions of contemporary times.  The following CVS has references to the eruption within contemporary TDA and BL newspapers in the year 1883. 
+     * [CVS results](https://github.com/alan-turing-institute/defoe_visualization/tree/master/Krakatoa_1883)
+
 
 
 
