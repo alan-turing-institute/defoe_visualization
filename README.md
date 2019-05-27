@@ -24,4 +24,27 @@ The notebook examinates the presence and rate of occurence of certain disease na
 * [Diseases and normaliser queries results](Diseases/results)
 
 
+### Female Emigration
+
+These notebooks examinatethe attitudes towards female emigration from Great Britain to the
+‘Colonies’ and North America from 1850 to 1914. It uses two digital corpuses - British Library Newspapers (BLN) and Times Digital Archive (TDA). 
+
+* Normalised frequencies of the names of female [emigration societies](https://github.com/alan-turing-institute/defoe/blob/master/queries/emigration_societies.txt):
+    * [BLN](https://github.com/alan-turing-institute/defoe_visualization/edit/master/README.mdhttps://github.com/alan-turing-institute/defoe_visualization/blob/master/Female_Emigration/BLN_Parts1-6/Visualization_Frequency_Societies_BLN.ipynb)
+    * [TDA](https://github.com/alan-turing-institute/defoe_visualization/blob/master/Female_Emigration/TDA/Visualization_Frequency_Societies_TDA.ipynb)
+
+* Normalised frequencies of specially chosen [taxonomy terms](https://github.com/alan-turing-institute/defoe/blob/master/queries/emigration_taxonomy.txt) relating to female emigration
+    * [BLN](https://github.com/alan-turing-institute/defoe_visualization/blob/master/Female_Emigration/BLN_Parts1-6/Visualization_Frequency_Taxonomy_BLN.ipynb)
+    * [BLN N-grams](https://github.com/alan-turing-institute/defoe_visualization/blob/master/Female_Emigration/BLN_Parts1-6/Visualization_Frequency_Taxonomy_Ngrams_BLN.ipynb)
+    * [TDA](https://github.com/alan-turing-institute/defoe_visualization/blob/master/Female_Emigration/TDA/Visualization_Frequency_Taxonomy_TDA.ipynb)
+    * [TDA N-grams](https://github.com/alan-turing-institute/defoe_visualization/blob/master/Female_Emigration/TDA/Visualization_Frequency_Taxonomy_Ngrams_TDA.ipynb)
+  
+
+### Eruption of Krakatoa Volcano in 1883
+
+Krakatoa (Krakatau in Indonesian)  erupted over 26-27th August 1883 and was one of the most spectacular volcanic eruptions of contemporary times. The following [CVS](https://github.com/alan-turing-institute/defoe_visualization/tree/master/Krakatoa_1883) have articles that references the eruption within contemporary TDA and BL newspapers in the year 1883. 
+
+
+
+
 
