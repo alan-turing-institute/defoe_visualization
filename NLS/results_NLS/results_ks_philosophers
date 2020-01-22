@@ -1,43 +1,76 @@
 1778:
-- [dugald stewart, 1]
-- [david hume, 2]
+- - dugald stewart
+  - 1
+- - david hume
+  - 2
 1797:
-- [adam smith, 6]
-- [david hume, 9]
-- [dugald stewart, 3]
+- - adam smith
+  - 2
+- - dugald stewart
+  - 2
+- - david hume
+  - 4
 1801:
-- [david hume, 4]
-- [adam smith, 5]
+- - david hume
+  - 4
+- - adam smith
+  - 5
 1803:
-- [david hume, 4]
-- [adam smith, 5]
+- - adam smith
+  - 5
+- - david hume
+  - 4
 1810:
-- [dugald stewart, 3]
-- [adam smith, 9]
-- [david hume, 8]
+- - dugald stewart
+  - 3
+- - adam smith
+  - 9
+- - david hume
+  - 8
 1815:
-- [david hume, 8]
-- [adam smith, 9]
-- [dugald stewart, 2]
+- - david hume
+  - 8
+- - dugald stewart
+  - 2
+- - adam smith
+  - 9
 1823:
-- [adam smith, 9]
-- [dugald stewart, 1]
-- [david hume, 8]
-- [francis hutcheson, 2]
+- - dugald stewart
+  - 1
+- - adam smith
+  - 9
+- - francis hutcheson
+  - 2
+- - david hume
+  - 8
 1824:
-- [dugald stewart, 31]
-- [adam smith, 39]
-- [francis hutcheson, 4]
-- [david hume, 12]
+- - david hume
+  - 12
+- - dugald stewart
+  - 31
+- - francis hutcheson
+  - 4
+- - adam smith
+  - 39
 1842:
-- [francis hutcheson, 4]
-- [dugald stewart, 39]
-- [adam smith, 54]
-- [thomas reid, 1]
-- [david hume, 18]
+- - dugald stewart
+  - 39
+- - thomas reid
+  - 1
+- - adam smith
+  - 54
+- - francis hutcheson
+  - 4
+- - david hume
+  - 18
 1853:
-- [david hume, 35]
-- [dugald stewart, 63]
-- [francis hutcheson, 2]
-- [thomas reid, 11]
-- [adam smith, 107]
+- - thomas reid
+  - 11
+- - adam smith
+  - 107
+- - dugald stewart
+  - 63
+- - david hume
+  - 35
+- - francis hutcheson
+  - 2

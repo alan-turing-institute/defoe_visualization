@@ -1,312 +1,419 @@
 1771:
-- ['Encyclopaedia Britannica; or, A dictionary of arts and sciences, compiled upon
-    a new plan', 'First edition, 1771, Volume 1, A-B']
-- ['Encyclopaedia Britannica; or, A dictionary of arts and sciences, compiled upon
-    a new plan', 'First edition, 1771, Volume 3, M-Z']
-- ['Encyclopaedia Britannica; or, A dictionary of arts and sciences, compiled upon
-    a new plan', 'First edition, 1771, Volume 2, C-L']
+- - Encyclopaedia Britannica; or, A dictionary of arts and sciences, compiled upon
+    a new plan
+  - First edition, 1771, Volume 1, A-B
+- - Encyclopaedia Britannica; or, A dictionary of arts and sciences, compiled upon
+    a new plan
+  - First edition, 1771, Volume 2, C-L
+- - Encyclopaedia Britannica; or, A dictionary of arts and sciences, compiled upon
+    a new plan
+  - First edition, 1771, Volume 3, M-Z
 1773:
-- ['Encyclopaedia Britannica: or, A dictionary of arts and sciences', 'First edition,
-    1773, Volume 3, M-Z']
-- ['Encyclopaedia Britannica: or, A dictionary of arts and sciences', 'First edition,
-    1773, Volume 2, C-L']
-- ['Encyclopaedia Britannica: or, A dictionary of arts and sciences', 'First edition,
-    1773, Volume 1, A-B']
+- - 'Encyclopaedia Britannica: or, A dictionary of arts and sciences'
+  - First edition, 1773, Volume 1, A-B
+- - 'Encyclopaedia Britannica: or, A dictionary of arts and sciences'
+  - First edition, 1773, Volume 3, M-Z
+- - 'Encyclopaedia Britannica: or, A dictionary of arts and sciences'
+  - First edition, 1773, Volume 2, C-L
 1778:
-- [Encyclopaedia Britannica, 'Second edition, Volume 3, C']
-- [Encyclopaedia Britannica, 'Second edition, Volume 10, SCU-Appendix']
-- [Encyclopaedia Britannica, 'Second edition, Volume 9, POI-SCU']
-- [Encyclopaedia Britannica, 'Second edition, Volume 5, G-J']
-- [Encyclopaedia Britannica, 'Second edition, Volume 4, D-F']
-- [Encyclopaedia Britannica, 'Second edition, Volume 7, Medicines-Optics']
-- [Encyclopaedia Britannica, 'Second edition, Volume 6, K-Medicine']
-- [Encyclopaedia Britannica, 'Second edition, Volume 1, A-AST']
-- [Encyclopaedia Britannica, 'Second edition, Volume 8, Optics-Poetry']
-- [Encyclopaedia Britannica, 'Second edition, Volume 2, Astronomy-BZO']
+- - Encyclopaedia Britannica
+  - Second edition, Volume 7, Medicines-Optics
+- - Encyclopaedia Britannica
+  - Second edition, Volume 6, K-Medicine
+- - Encyclopaedia Britannica
+  - Second edition, Volume 8, Optics-Poetry
+- - Encyclopaedia Britannica
+  - Second edition, Volume 3, C
+- - Encyclopaedia Britannica
+  - Second edition, Volume 5, G-J
+- - Encyclopaedia Britannica
+  - Second edition, Volume 1, A-AST
+- - Encyclopaedia Britannica
+  - Second edition, Volume 4, D-F
+- - Encyclopaedia Britannica
+  - Second edition, Volume 10, SCU-Appendix
+- - Encyclopaedia Britannica
+  - Second edition, Volume 9, POI-SCU
+- - Encyclopaedia Britannica
+  - Second edition, Volume 2, Astronomy-BZO
 1797:
-- [Encyclopaedia Britannica, 'Third edition, Volume 6, DIA-ETH']
-- [Encyclopaedia Britannica, 'Third edition, Volume 15, PLA-RAN']
-- [Encyclopaedia Britannica, 'Third edition, Volume 16, RAN-SCO']
-- [Encyclopaedia Britannica, 'Third edition, Volume 3, BAR-BZO']
-- [Encyclopaedia Britannica, 'Third edition, Volume 1, A-ANG']
-- [Encyclopaedia Britannica, 'Third edition, Volume 5, CIC-DIA']
-- [Encyclopaedia Britannica, 'Third edition, Volume 2, ANG-BAR']
-- [Encyclopaedia Britannica, 'Third edition, Volume 13, NEH-PAS']
-- [Encyclopaedia Britannica, 'Third edition, Volume 16, RAN-SCO']
-- [Encyclopaedia Britannica, 'Third edition, Volume 13, NEH-PAS']
-- [Encyclopaedia Britannica, 'Third edition, Volume 6, DIA-ETH']
-- [Encyclopaedia Britannica, 'Third edition, Volume 17, SCO-STR']
-- [Encyclopaedia Britannica, 'Third edition, Volume 15, PLA-RAM']
-- [Encyclopaedia Britannica, 'Third edition, Volume 14, PAS-PLA']
-- [Encyclopaedia Britannica, 'Third edition, Volume 5, CIC-DIA']
-- [Encyclopaedia Britannica, 'Third edition, Volume 7, ETM-GOA']
-- [Encyclopaedia Britannica, 'Third edition, Volume 10, LES-MEC']
-- [Encyclopaedia Britannica, 'Third edition, Volume 8, GOB-HYD']
-- [Encyclopaedia Britannica, 'Third edition, Volume 4, CAA-CIC']
-- [Encyclopaedia Britannica, 'Third edition, Volume 8, GOB-HYD']
-- [Encyclopaedia Britannica, 'Third edition, Volume 11, Medals-Midwifery']
-- [Encyclopaedia Britannica, 'Third edition, Volume 18, STR-ZYM']
-- [Encyclopaedia Britannica, 'Third edition, Volume 9, Hydrostatics-LES']
-- [Encyclopaedia Britannica, 'Third edition, Volume 9, Hydrostatics-LES']
-- [Encyclopaedia Britannica, 'Third edition, Volume 1, A-ANG']
-- [Encyclopaedia Britannica, 'Third edition, Volume 2, ANG-BAR']
-- [Encyclopaedia Britannica, 'Third edition, Volume 12, MIE-NEG']
-- [Encyclopaedia Britannica, 'Third edition, Volume 14, PAS-PLA']
-- [Encyclopaedia Britannica, 'Third edition, Volume 11, Medals-Midwifery']
-- [Encyclopaedia Britannica, 'Third edition, Volume 3, BAR-BZO']
-- [Encyclopaedia Britannica, 'Third edition, Volume 12, MIE-NEG']
-- [Encyclopaedia Britannica, 'Third edition, Volume 10, LES-MEC']
-- [Encyclopaedia Britannica, 'Third edition, Volume 7, ETM-GOA']
-- [Encyclopaedia Britannica, 'Third edition, Volume 4, CAA-CIC']
-- [Encyclopaedia Britannica, 'Third edition, Volume 18, STR-ZYM']
-- [Encyclopaedia Britannica, 'Third edition, Volume 17, SCO-STR']
+- - Encyclopaedia Britannica
+  - Third edition, Volume 10, LES-MEC
+- - Encyclopaedia Britannica
+  - Third edition, Volume 6, DIA-ETH
+- - Encyclopaedia Britannica
+  - Third edition, Volume 7, ETM-GOA
+- - Encyclopaedia Britannica
+  - Third edition, Volume 9, Hydrostatics-LES
+- - Encyclopaedia Britannica
+  - Third edition, Volume 4, CAA-CIC
+- - Encyclopaedia Britannica
+  - Third edition, Volume 1, A-ANG
+- - Encyclopaedia Britannica
+  - Third edition, Volume 5, CIC-DIA
+- - Encyclopaedia Britannica
+  - Third edition, Volume 11, Medals-Midwifery
+- - Encyclopaedia Britannica
+  - Third edition, Volume 3, BAR-BZO
+- - Encyclopaedia Britannica
+  - Third edition, Volume 2, ANG-BAR
+- - Encyclopaedia Britannica
+  - Third edition, Volume 8, GOB-HYD
 1801:
-- [Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated
-    with ... copperplates, 'Volume 1, ABE-IMP']
-- [Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated
-    with ... copperplates, 'Volume 2, IND-ZEM']
+- - Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated
+    with ... copperplates
+  - Volume 2, IND-ZEM
+- - Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated
+    with ... copperplates
+  - Volume 1, ABE-IMP
 1803:
-- [Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated
-    with ... copperplates, 'Volume 1, ABE-IMP']
-- [Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated
-    with ... copperplates, 'Volume 2, IND-ZEM']
+- - Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated
+    with ... copperplates
+  - Volume 1, ABE-IMP
+- - Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated
+    with ... copperplates
+  - Volume 2, IND-ZEM
 1810:
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 15 Part 2, ORC-PAR']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 3 Part 2, BAR-BOO']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 12 Part 2, MAH-Materia medica']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 16 Part 2, PHO-Poetry']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 20 Part 1, SUI-THE']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 10 Part 2, Heraldry-Hydrodynamics']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 13 Part 2, Medicine-MIC']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 9 Part 1, FOR-Gardening']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 6 Part 2, Conchology-Crystallization']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 5 Part 1, BUR-CHA']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 19 Part 1, SCR-SLE']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 18 Part I, RHI-RUS']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 18 Part 2, RUS-SCR']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 5 Part 2, CHA-CHI']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 17 Part 2, Projectiles-RHI']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 14 Part 1, MIC-Moral philosophy']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 9 Part 2, Gardening-GOT']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 6 Part 1, CHI-Conchology']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 7 Part 1, CTE-Dyeing']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 16 Part 1, PAR-PHL']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 17 Part 1, Poetry-Projectiles']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 1 Part 2, Agriculture-AME']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 14 Part 2, Moral philosophy-NIC']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 3 Part 1, ASS-BAR']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 19 Part 2, SLE-SUG']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 7 Part 2, Dyeing-Electricity']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 2 Part 1, AME-ANS']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 4 Part 1, Book-keeping-BRE']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 8 Part 2, FAI-FOR']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 8 Part 1, ELE-FAI']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 20 Part 2, THE-ZYM']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 2 Part 2, ANT-ASS']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 15 Part 1, NIC-ORB']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 13 Part 1, Mathematics-Medicine']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 11 Part 1, HYD-JUN']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 4 Part 2, BRE-BUR']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 1 Part 1, A-Agriculture']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 11 Part 2, JUP-LIE']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 12 Part 1, LIE-MAG']
-- ['Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
-    literature', 'Fourth edition, Volume 10 Part 1, GOT-Heraldry']
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 14 Part 2, Moral philosophy-NIC
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 16 Part 2, PHO-Poetry
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 11 Part 1, HYD-JUN
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 18 Part I, RHI-RUS
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 20 Part 1, SUI-THE
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 10 Part 2, Heraldry-Hydrodynamics
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 3 Part 1, ASS-BAR
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 18 Part 2, RUS-SCR
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 5 Part 2, CHA-CHI
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 4 Part 2, BRE-BUR
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 13 Part 2, Medicine-MIC
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 15 Part 2, ORC-PAR
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 8 Part 1, ELE-FAI
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 1 Part 1, A-Agriculture
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 20 Part 2, THE-ZYM
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 6 Part 1, CHI-Conchology
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 19 Part 2, SLE-SUG
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 7 Part 2, Dyeing-Electricity
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 3 Part 2, BAR-BOO
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 2 Part 1, AME-ANS
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 17 Part 2, Projectiles-RHI
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 2 Part 2, ANT-ASS
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 15 Part 1, NIC-ORB
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 11 Part 2, JUP-LIE
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 16 Part 1, PAR-PHL
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 19 Part 1, SCR-SLE
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 9 Part 1, FOR-Gardening
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 4 Part 1, Book-keeping-BRE
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 13 Part 1, Mathematics-Medicine
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 8 Part 2, FAI-FOR
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 12 Part 2, MAH-Materia medica
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 7 Part 1, CTE-Dyeing
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 17 Part 1, Poetry-Projectiles
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 12 Part 1, LIE-MAG
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 14 Part 1, MIC-Moral philosophy
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 10 Part 1, GOT-Heraldry
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 6 Part 2, Conchology-Crystallization
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 5 Part 1, BUR-CHA
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 1 Part 2, Agriculture-AME
+- - Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous
+    literature
+  - Fourth edition, Volume 9 Part 2, Gardening-GOT
 1815:
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 18, RHI-SCR']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 7, CTE-Electricity']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 17, Poetry-RHI']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 12, LIE-Materia medica']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 3, ASS-BOO']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 4, Book-keeping-BUR']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 13, MAT-MIC']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 19, Scripture-SUG']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 8, ELE-FOR']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 2, AME-ASS']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 1, A-AME']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 10, GOT-Hydrodynamics']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 16, PAR-Poetry']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 20, SUI-ZYM']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 5, BUR-CHI']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 15, NIC-PAR']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 6, CHI-Crystallization']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 11, HYD-LIE']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 9, FOR-GOT']
-- ['Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
-    literature : enlarged and improved. Illustrated with nearly six hundred engravings',
-  'Fifth edition, Volume 14, MIC-NIC']
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 8, ELE-FOR
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 10, GOT-Hydrodynamics
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 16, PAR-Poetry
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 2, AME-ASS
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 11, HYD-LIE
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 20, SUI-ZYM
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 13, MAT-MIC
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 1, A-AME
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 5, BUR-CHI
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 18, RHI-SCR
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 7, CTE-Electricity
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 19, Scripture-SUG
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 9, FOR-GOT
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 15, NIC-PAR
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 17, Poetry-RHI
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 14, MIC-NIC
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 3, ASS-BOO
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 6, CHI-Crystallization
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 4, Book-keeping-BUR
+- - 'Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous
+    literature : enlarged and improved. Illustrated with nearly six hundred engravings'
+  - Fifth edition, Volume 12, LIE-Materia medica
 1823:
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 8, ELE-FOR']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 20, SUI-ZYM']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 17, Poetry-RHI']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 9, FOR-GOT']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 16, PAR-Poetry']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 7, CTE-Electricity']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 4, BOO-BUR']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 11, HYD-LIE']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 15, NIC-PAR']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 13, MAT-MIC']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 2, America-ASS']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 19, Scripture-SUG']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 1, A-AME']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 12, LIE-Materia medica']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 3, ASS-BOO']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 18, RHI-Scripture']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 6, CHI-Crystallization']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 5, BUR-CHI']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 10, GOT-Hydrodynamics']
-- [Encyclopaedia Britannica, 'Sixth edition, Volume 14, MIC-NIC']
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 3, ASS-BOO
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 7, CTE-Electricity
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 8, ELE-FOR
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 13, MAT-MIC
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 18, RHI-Scripture
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 9, FOR-GOT
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 17, Poetry-RHI
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 4, BOO-BUR
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 11, HYD-LIE
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 16, PAR-Poetry
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 6, CHI-Crystallization
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 15, NIC-PAR
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 5, BUR-CHI
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 19, Scripture-SUG
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 10, GOT-Hydrodynamics
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 2, America-ASS
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 1, A-AME
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 12, LIE-Materia medica
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 20, SUI-ZYM
+- - Encyclopaedia Britannica
+  - Sixth edition, Volume 14, MIC-NIC
 1824:
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 5]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 3]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 4]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 6]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 6]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 2]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 1]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 3]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 2]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 3]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 2]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 1]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 5]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 1]
-- ['Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica',
-  Volume 4]
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 6
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 3
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 2
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 1
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 5
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 1
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 4
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 5
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 3
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 6
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 3
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 1
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 2
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 2
+- - Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica
+  - Volume 4
 1842:
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 2, A-Anatomy']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 17, PAN-Plastic nature']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 12, Hydrodynamics-KYR']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 20, Sculpture-SUR']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 13, LAB-Magnetism']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 4, Astronomy-BOR']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 8, DIA-England']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 6, CAL-Clock']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 21, Surveying-ZYM']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 3, Anatomy-Astronomy']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 10, France-GRO']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 15, MEY-Navigation']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 18, PLA-QUI']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 16, Navigation-PAN']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 11, Grotius-HYD']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 14, Magnetism-Mexico']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 7, CLO-Dialling']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 5, BOR-CAL']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 9, England-FRA']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 19, RAB-SCU']
-- [Encyclopaedia Britannica, 'Seventh edition, Volume 1, Preliminary dissertations']
-- [Encyclopaedia Britannica, 'Seventh edition, General index']
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 13, LAB-Magnetism
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 16, Navigation-PAN
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 4, Astronomy-BOR
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 11, Grotius-HYD
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 19, RAB-SCU
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 2, A-Anatomy
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 6, CAL-Clock
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 21, Surveying-ZYM
+- - Encyclopaedia Britannica
+  - Seventh edition, General index
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 7, CLO-Dialling
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 3, Anatomy-Astronomy
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 8, DIA-England
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 5, BOR-CAL
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 20, Sculpture-SUR
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 9, England-FRA
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 15, MEY-Navigation
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 10, France-GRO
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 14, Magnetism-Mexico
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 17, PAN-Plastic nature
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 1, Preliminary dissertations
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 12, Hydrodynamics-KYR
+- - Encyclopaedia Britannica
+  - Seventh edition, Volume 18, PLA-QUI
 1853:
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 19, Reid-Scythia']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 11, GRA-HUM']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 16, Navigation-Ornithology']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 2, A-Anatomy']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 12, Hume-JOM']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 14, Magnetism-MIH']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 3, Anatomy-Astronomy']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 1, Dissertations']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 8, Diamond-Entail']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 10, France-GRA']
-- [Encyclopaedia Britannica, 'Eighth edition, Index']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 6, Burning glasses-Climate']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 20, Seamanship-SZO']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 15, Milan-NAV']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 5, Bombay-BUR']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 9, Entomology-FRA']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 4, Astronomy-BOM']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 17, ORO-Plato']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 13, Jonah-MAG']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 18, PLA-REI']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 21, T-ZWO']
-- [Encyclopaedia Britannica, 'Eighth edition, Volume 7, CLI-DIA']
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 12, Hume-JOM
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 19, Reid-Scythia
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 2, A-Anatomy
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 11, GRA-HUM
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 20, Seamanship-SZO
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 8, Diamond-Entail
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 15, Milan-NAV
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 1, Dissertations
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 16, Navigation-Ornithology
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 5, Bombay-BUR
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 9, Entomology-FRA
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 21, T-ZWO
+- - Encyclopaedia Britannica
+  - Eighth edition, Index
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 4, Astronomy-BOM
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 13, Jonah-MAG
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 10, France-GRA
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 6, Burning glasses-Climate
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 18, PLA-REI
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 7, CLI-DIA
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 3, Anatomy-Astronomy
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 14, Magnetism-MIH
+- - Encyclopaedia Britannica
+  - Eighth edition, Volume 17, ORO-Plato
